@@ -23,12 +23,12 @@ First of all, click on the top-right corner of this repository to fork it.
 ### Create a local clone of your fork
 Then, clone your forked repository using this command:
 ```
-git clone https://github.com/YOUR-USERNAME/csoc-2021-task-3-vue.git
+git clone https://github.com/YOUR-USERNAME/csoc-week3-vue.git
 ```
 
 Change your current directory to the repo's root.
 ```
-cd csoc-2021-task-3-vue
+cd csoc-week3-vue
 ```
 
 ### Run the server
@@ -65,7 +65,7 @@ There are three pages in this site.
 
 We have also created a backend server containing the API endpoints required for this application to function completely  - [https://todo-app-csoc.herokuapp.com/](https://todo-app-csoc.herokuapp.com/)
 
-You are already familiar with API from last task if not find more details at [Task-2-Web](https://github.com/COPS-IITBHU/csoc-2021-task-2-web/blob/main/README.md#api-usage)
+You are already familiar with API from last task if not find more details at [Task-2-Web](https://github.com/COPS-CSOC-2022/csoc-task-2-web#api-usage)
 
 ## Tasks
 You would notice that the application is not functional completely. So, your task is to make it completely functional. You would be working in :
@@ -111,7 +111,7 @@ Here is the breakdown of the points related to each task.
 Judging would be done on the basis of your implementation and authenticity.
 
 ## Deadline
-You'll have a week to complete this task. Hence, the deadline of this task is **28th June, 2021** i.e. till the end of this month.
+You'll have a week to complete this task. Hence, the deadline of this task is **26th June, 2022** i.e. till the end of this month.
 
 ## Submission
 * Follow the instructions to setup this project.
